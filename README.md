@@ -5,8 +5,8 @@
 
 * 🌱 I'm currently learning Javascript, Typescript   
 * 📫 How to reach me
-  - blog : https://blog.naver.com/lij8016
   - velog : https://velog.io/@easy_dev
+  - blog : https://blog.naver.com/lij8016
   - email : lij8016@gmail.com
 
 
