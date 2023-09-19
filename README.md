@@ -8,7 +8,15 @@
   - velog : https://velog.io/@easy_dev
   - blog : https://blog.naver.com/lij8016
   - email : lij8016@gmail.com
-
+ 
+* 💖 What I like
+  - development
+  - code
+  - writing
+  - artbook
+  - movie
+  - 🐈🐕🦅
+ 
 
 # Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=injilee&hide=stars&show_icons=true&theme=dark)](https://github.com/injilee/github-readme-stats)
