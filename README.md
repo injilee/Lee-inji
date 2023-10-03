@@ -7,13 +7,10 @@
   - blog : https://blog.naver.com/lij8016
   - email : lij8016@gmail.com
  
-* 💖 What I like
-  - development
-  - code
-  - writing
-  - artbook
-  - movie
-  - 🐈🐕🦅
+* 💖 Interested in
+  - Education
+  - Fintech
+  - UI/UX
  
 
 # Stats
