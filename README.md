@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finjilee%2Fhit-counter&count_bg=%23BF36D3&title_bg=%23408252&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## Hello 👋  
 * 📫 How to reach me
   - velog : https://velog.io/@easy_dev
@@ -8,11 +6,6 @@
 * 💖 Interested in
   - Fintech
   - UI/UX
- 
-
-# Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=injilee&hide=stars&show_icons=true&theme=dark)](https://github.com/injilee/github-readme-stats)
-
 
 # Skills
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat-square&logo=styledComponents&logoColor=white"/>
